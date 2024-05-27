@@ -3,12 +3,12 @@ ALIAS = WHISKEY
 
 # Nombre de usuario:
 
-- Alfa [X] Christian, Caracas
+- Alfa [] Christian, Caracas
 - Zulu [ ] Keishmer, Caracas
 - Denzel [ ] Carlos, Miranda
 - Tango [ ] Jonathan, Miranda
 - Romeo [ ] Pedro, Maracay
-- Whisky [ ] Alona, Margarita
+- Whisky [ X ] Alona, Margarita
 - Zero [ ] Julio,
 - Golf [ ] Raykel, Caracas
 - Beta [ ] Edwuard, Caracas
