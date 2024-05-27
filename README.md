@@ -1,20 +1,21 @@
 # hg_1_whiskey2
 ALIAS = WHISKEY
 
-# Nombre de usuario
-- Christian [caracas] 
-- Keishmer [caracas]
-- carlos [miranda]
-- jonathan [miranda]
-- pedro[maracay ]
-- alona [margarita]
-- julio [ ]
-- Raykel [caracas]
-- edwuard [caracas ]
-- alejandro [ ]
-- geffry [puerto la cruz]
-- delta [ ]
-- samuel [caracas]
-- andres [maracaibo]
-- daniel [caracas]
-- six [ ]
+# Nombre de usuario:
+
+- Alfa [X] Christian, Caracas
+- Zulu [ ] Keishmer, Caracas
+- Denzel [ ] Carlos, Miranda
+- Tango [ ] Jonathan, Miranda
+- Romeo [ ] Pedro, Maracay
+- Whisky [ ] Alona, Margarita
+- Zero [ ] Julio,
+- Golf [ ] Raykel, Caracas
+- Beta [ ] Edwuard, Caracas
+- Fooxtruckt [ ] Alejandro, 
+- Xray [ ] Jeffrey, Puerto la Cruz
+- Delta [ ]
+- Papa [ ] Samuel, Caracas
+- Eco [ ] Andrés, Maracaibo
+- Bravo [ ] Daniel, Caracas
+- Six [ ]
