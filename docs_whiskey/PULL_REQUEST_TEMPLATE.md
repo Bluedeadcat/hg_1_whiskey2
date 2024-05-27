@@ -1,35 +1,35 @@
 # Nombre de usuario
--  alfa [ ]
-- zulu [ ]
-- Denzel [ ]
-- Tango [ ]
-- Romeo [ ]
-- whisky [ X ]
-- zero [ ]
-- golf [ ]
-- beta [ ]
-- fooxtruckt [ ]
-- xray [ ]
-- delta [ ]
-- papa [ ]
-- eco [ ]
-- bravo [ ]
-- six [ ]
+-  [ ] alfa 
+- [ ] zulu 
+- [ ] Denzel
+- [ ] Tango 
+- [ ] Romeo 
+- [ ] whisky X 
+- [ ] zero 
+- [ ] golf 
+- [ ] beta 
+- [ ] fooxtruckt 
+- [ ] xray 
+- [ ] delta 
+- [ ] papa 
+- [ ] eco 
+- [ ] bravo 
+- [ ] six 
 
 # Tipo de actividad o rama
-- refactor[ ]
-- software [ ]
-- deploying [ ]
-- issue [ ]
-- testing [ ]
-- code [ X ]
-- durent [ ]
-- username [ ]
-- domingo [ ]
-- hosting [ ]
-- desarrollo [ ]
-- air [ ]
-- variable [ ]
-- feature [ ]
-- hotfix [ ]
-- produccion [ ]
+- [ ] refactor
+- [ ] software 
+- [ ] deploying 
+- [ ] issue 
+- [ ] testing 
+- [ ] code X
+- [ ] durent 
+- [ ] username 
+- [ ] domingo 
+- [ ] hosting 
+- [ ] desarrollo 
+- [ ] air 
+- [ ] variable 
+- [ ] feature 
+- [ ] hotfix 
+- [ ] produccion
