@@ -14,6 +14,7 @@ delta [ ]
 papa [ ]
 eco [ ]
 bravo [ ]
+six [ ]
 
 tipo de actividad o rama
 refactor[ ]
@@ -31,3 +32,4 @@ air [ ]
 variable [ ]
 feature [ ]
 hotfix [ ]
+produccion [ ]
