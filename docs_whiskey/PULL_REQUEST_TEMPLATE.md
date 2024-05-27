@@ -4,7 +4,7 @@
 - [ ] Denzel
 - [ ] Tango 
 - [ ] Romeo 
-- [ ] whisky X 
+- [ X ] whisky  
 - [ ] zero 
 - [ ] golf 
 - [ ] beta 
@@ -22,7 +22,7 @@
 - [ ] deploying 
 - [ ] issue 
 - [ ] testing 
-- [ ] code X
+- [ X ] code 
 - [ ] durent 
 - [ ] username 
 - [ ] domingo 
